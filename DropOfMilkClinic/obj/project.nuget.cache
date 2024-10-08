@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAG/XAB6nlH7RWQ5NneuZ78GZGUAyNn5oWiRLGtquj9sXXlf3O5RkC/t1BPtjFMBnFnB9n2tYrff/dyvxJ4qqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\יואב\\Documents\\ו סמינר\\פרוייקט טיפת חלב\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\יואב\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\יואב\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\יואב\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\יואב\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\יואב\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\יואב\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
