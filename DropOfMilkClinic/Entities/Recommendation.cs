@@ -1,4 +1,4 @@
-﻿namespace DropOfMilkClinic
+﻿namespace DropOfMilkClinic.Entities
 {
     public class Recommendation
     {

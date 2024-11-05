@@ -1,9 +1,9 @@
-﻿namespace DropOfMilkClinic
+﻿namespace DropOfMilkClinic.Entities
 {
     public class Turn
     {
         public int TurnId { get; set; }
-        public  DateTime TurnDate { get; set; }
+        public DateTime TurnDate { get; set; }
 
         public Branch BranchId { get; set; }
 

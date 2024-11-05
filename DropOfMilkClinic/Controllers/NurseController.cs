@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DropOfMilkClinic.Entities;
+using Microsoft.AspNetCore.Mvc;
 using System.Xml.Linq;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -9,14 +10,17 @@ namespace DropOfMilkClinic.Controllers
     [ApiController]
     public class NurseController : ControllerBase
     {
-        private static List<Nurse> nurses= new List<Nurse> {
-           new Nurse{FirstName="YAEL",LastName="SHUKER",NurseId="215262626",Status=true,BranchId=new Branch{ } }
-        };
+        private readonly DataContex _context;
+
+        public NurseController(DataContex context)
+        {
+            _context = context;
+        }
         // GET: api/<NurseController>
         [HttpGet]
         public IEnumerable<Nurse> Get()
         {
-            return nurses;
+            return _context.Nurse;
         }
 
         // GET api/<NurseController>/5
@@ -24,12 +28,12 @@ namespace DropOfMilkClinic.Controllers
         public string Get(string Fname,string Lname)
         {
 
-            if (nurses.FindIndex(e => e.FirstName == Fname) == nurses.FindIndex(e => e.LastName == Lname)&&
-                nurses.FindIndex(e => e.FirstName == Lname) != -1 &&
-                nurses[nurses.FindIndex(e => e.FirstName == Fname)].Status==true)
+            if (_context.Nurse.FindIndex(e => e.FirstName == Fname) == _context.Nurse.FindIndex(e => e.LastName == Lname)&&
+                _context.Nurse.FindIndex(e => e.FirstName == Lname) != -1 &&
+                _context.Nurse[_context.Nurse.FindIndex(e => e.FirstName == Fname)].Status==true)
             {
-                var index = nurses.FindIndex(e => e.FirstName == Fname);
-                return nurses[index].FirstName + " " + nurses[index].LastName;
+                var index = _context.Nurse.FindIndex(e => e.FirstName == Fname);
+                return _context.Nurse[index].FirstName + " " + _context.Nurse[index].LastName;
             }
             else return "NOT FOUND";
 

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DropOfMilkClinic.Entities;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,31 +9,31 @@ namespace DropOfMilkClinic.Controllers
     [ApiController]
     public class BranchController : ControllerBase
     {
-        public static List<Branch> branches = new List<Branch> {
-            new Branch{BranchId=1,City="BNE BRAK",Street="RabyAkiva",status=true},
-               new Branch{BranchId=2,City="RAMAT GAN",Street="SHOMRIM",status=false},
-                  new Branch{BranchId=1,City="NETANYA",Street="LECHI",status = true}
+        private readonly DataContex _context;
 
-        };
+        public BranchController(DataContex context)
+        {
+            _context = context;
+        }
         // GET: api/<BranchController>
         [HttpGet]
         public IEnumerable<Branch> Get()
         {
-            return branches;
+            return _context.Branch;
         }
 
         // GET api/<BranchController>/5
         [HttpGet("id/{id}")]
         public string GetById(int id)
         {
-            var index = branches.FindIndex(e => e.BranchId == id&&branches[branches.FindIndex(e=> e.BranchId==id)].status);
-                return branches[index].City + " " + branches[index].Street;  
+            var index = _context.Branch.FindIndex(e => e.BranchId == id&&_context.Branch[_context.Branch.FindIndex(e=> e.BranchId==id)].status);
+                return _context.Branch[index].City + " " + _context.Branch[index].Street;  
         }
         // GET api/<BranchController>/5
         [HttpGet("city/{city}")]
         public List<string> GetByCity(string city)
         {
-            var relevantTurns = branches.Where(e => e.City == city && branches[branches.FindIndex(e => e.City == city)].status)
+            var relevantTurns = _context.Branch.Where(e => e.City == city && _context.Branch[_context.Branch.FindIndex(e => e.City == city)].status)
                                  .Select(e =>e.Street+" "+e.BranchId )
                                  .ToList();
 

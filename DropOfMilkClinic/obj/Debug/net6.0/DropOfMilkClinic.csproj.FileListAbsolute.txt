@@ -30,3 +30,30 @@ C:\Users\יואב\Documents\ו סמינר\פרוייקט טיפת חלב\DropOfM
 C:\Users\יואב\Documents\ו סמינר\פרוייקט טיפת חלב\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
 C:\Users\יואב\Documents\ו סמינר\פרוייקט טיפת חלב\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
 C:\Users\יואב\Documents\ו סמינר\פרוייקט טיפת חלב\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.Development.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.exe
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.deps.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.pdb
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cache
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.build.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.development.json
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\scopedcss\bundle\DropOfMilkClinic.styles.css
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CopyComplete
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\refint\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll
