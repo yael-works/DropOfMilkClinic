@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //כאן יהיה החלק של התנאים
+//חישביים בSERVICE ולגשת לנתונים זה בDATA
 namespace DropOfMilkClinic.Services
 {
     public class BabyService: IBabyService
@@ -21,9 +22,9 @@ namespace DropOfMilkClinic.Services
 
         public string Get(string id)
         {
-            return _babyRespository.Get(id);
+            return _babyRespository.Get(id)g;
         }
-        public ActionResult GetTurnList(string id)
+        public List<Turn> GetTurnList(string id)
         {
             return _babyRespository.GetTurnList(id);
         }

@@ -12,7 +12,7 @@ namespace DropOfMilkClinic.Core.Services
        
         public string Get(string id);
 
-        public ActionResult GetTurnList(string id);
+        public List<Turn> GetTurnList(string id);
 
 
 

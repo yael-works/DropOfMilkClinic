@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {}
+    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {}
   },
   "projects": {
-    "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
+        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
         "projectName": "DropOfMilkClinic.Core",
-        "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
-        "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
-        "outputPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\obj\\",
+        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
+        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
+        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,20 +62,20 @@
         }
       }
     },
-    "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
+    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
+        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
         "projectName": "DropOfMilkClinic.Data",
-        "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
-        "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
-        "outputPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\obj\\",
+        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
+        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
+        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
               }
             }
           }
@@ -124,20 +124,20 @@
         }
       }
     },
-    "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
+    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
+        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
         "projectName": "DropOfMilkClinic.Serivce",
-        "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
-        "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
-        "outputPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\obj\\",
+        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
+        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
+        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -152,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
               },
-              "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
-                "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj"
+              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
+                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj"
               }
             }
           }
@@ -189,20 +189,20 @@
         }
       }
     },
-    "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {
+    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
         "projectName": "DropOfMilkClinic",
-        "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
-        "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
-        "outputPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
+        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
+        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -217,11 +217,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
               },
-              "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
-                "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj"
+              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
+                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj"
               }
             }
           }
