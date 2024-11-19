@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DropOfMilkClinic.Core.IServices
+namespace DropOfMilkClinic.Core.Services
 {
     public interface INurseService
     {

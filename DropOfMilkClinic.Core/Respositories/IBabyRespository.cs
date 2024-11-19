@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DropOfMilkClinic.Core.IRespositories
+namespace DropOfMilkClinic.Core.Respositories
 {
     public interface IBabyRespository
     {
@@ -14,7 +14,7 @@ namespace DropOfMilkClinic.Core.IRespositories
         public void Post(Baby value);
         public int Post(DateTime date, string id);
         public void PutId(string id, bool value);
-        public IActionResult PutCity(string id, string city);
+        public ActionResult PutCity(string id, string city);
         public void Delete(int turnId, string id);
     }
 }

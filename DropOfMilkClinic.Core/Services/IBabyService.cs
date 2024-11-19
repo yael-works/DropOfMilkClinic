@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DropOfMilkClinic.Core.IServices
+namespace DropOfMilkClinic.Core.Services
 {
     public interface IBabyService
     {
@@ -25,7 +25,7 @@ namespace DropOfMilkClinic.Core.IServices
         public void PutId(string id, bool value);
 
 
-        public IActionResult PutCity(string id, string city);
+        public ActionResult PutCity(string id, string city);
 
 
 

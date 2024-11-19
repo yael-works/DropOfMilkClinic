@@ -1,4 +1,4 @@
-﻿using DropOfMilkClinic.Core.IServices;
+﻿using DropOfMilkClinic.Core.Services;
 using DropOfMilkClinic.Data.Repositories;
 using DropOfMilkClinic.Entities;
 using System;

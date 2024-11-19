@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DropOfMilkClinic.Core.IRespositories
+namespace DropOfMilkClinic.Core.Respositories
 {
-    internal interface ITurnRespository
+   public interface ITurnRespository
     {
     }
 }
