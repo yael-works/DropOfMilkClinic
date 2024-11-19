@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NWDb3k1cXgoJW5WUoYrQRY9KPEYFK8Ny1MGE9YAuPwzA4fJc+tCsVwOJdb+L3oyCd91/11KeWf5Suywanpv6vw==",
+  "dgSpecHash": "UoF0Nl0Mn6oYlb78g0Ixfq3LxTrWdAjP2BHfxwitSd8OKFzGzkNTKOGbtmbD1Gj9NMHuzZjT1er7+L8COL3w0A==",
   "success": true,
-  "projectFilePath": "Y:\\הנדסת תוכנה תשפה\\.net core\\יעל שוכר\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+  "projectFilePath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TALMID2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\TALMID2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\TALMID2\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\TALMID2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\TALMID2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\TALMID2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\talmid1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\talmid1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 ﻿using DropOfMilkClinic.Entities;
 
-namespace DropOfMilkClinic
+namespace DropOfMilkClinic.Data
 {
     public class DataContex
     {

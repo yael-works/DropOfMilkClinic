@@ -1,4 +1,5 @@
 ﻿using DropOfMilkClinic.Entities;
+using DropOfMilkClinic.Serivce;
 using Microsoft.AspNetCore.Mvc;
 using System.Xml.Linq;
 
@@ -10,34 +11,23 @@ namespace DropOfMilkClinic.Controllers
     [ApiController]
     public class NurseController : ControllerBase
     {
-        private readonly DataContex _context;
-
-        public NurseController(DataContex context)
+        private readonly INurseService nurseService;
+        public NurseController(INurseService nurseService)
         {
-            _context = context;
+            this.nurseService = nurseService;
         }
         // GET: api/<NurseController>
         [HttpGet]
         public IEnumerable<Nurse> Get()
         {
-            return _context.Nurse;
+            return nurseService.Get();
         }
 
         // GET api/<NurseController>/5
         [HttpGet("{Fname,Lname}")]
         public string Get(string Fname,string Lname)
         {
-
-            if (_context.Nurse.FindIndex(e => e.FirstName == Fname) == _context.Nurse.FindIndex(e => e.LastName == Lname)&&
-                _context.Nurse.FindIndex(e => e.FirstName == Lname) != -1 &&
-                _context.Nurse[_context.Nurse.FindIndex(e => e.FirstName == Fname)].Status==true)
-            {
-                var index = _context.Nurse.FindIndex(e => e.FirstName == Fname);
-                return _context.Nurse[index].FirstName + " " + _context.Nurse[index].LastName;
-            }
-            else return "NOT FOUND";
-
-
+             return nurseService.Get(Fname, Lname); 
         }
 
     

@@ -72,6 +72,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "DropOfMilkClinic.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DropOfMilkClinic.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DropOfMilkClinic.Core.dll": {}
+        }
+      },
+      "DropOfMilkClinic.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DropOfMilkClinic.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DropOfMilkClinic.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DropOfMilkClinic.Data.dll": {}
+        }
+      },
+      "DropOfMilkClinic.Serivce/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DropOfMilkClinic.Core": "1.0.0",
+          "DropOfMilkClinic.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DropOfMilkClinic.Serivce.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DropOfMilkClinic.Serivce.dll": {}
+        }
       }
     }
   },
@@ -413,31 +450,48 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "DropOfMilkClinic.Core/1.0.0": {
+      "type": "project",
+      "path": "../DropOfMilkClinic.Core/DropOfMilkClinic.Core.csproj",
+      "msbuildProject": "../DropOfMilkClinic.Core/DropOfMilkClinic.Core.csproj"
+    },
+    "DropOfMilkClinic.Data/1.0.0": {
+      "type": "project",
+      "path": "../DropOfMilkClinic.Data/DropOfMilkClinic.Data.csproj",
+      "msbuildProject": "../DropOfMilkClinic.Data/DropOfMilkClinic.Data.csproj"
+    },
+    "DropOfMilkClinic.Serivce/1.0.0": {
+      "type": "project",
+      "path": "../DropOfMilkClinic.Serivce/DropOfMilkClinic.Serivce.csproj",
+      "msbuildProject": "../DropOfMilkClinic.Serivce/DropOfMilkClinic.Serivce.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DropOfMilkClinic.Core >= 1.0.0",
+      "DropOfMilkClinic.Serivce >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TALMID2\\.nuget\\packages\\": {},
+    "C:\\Users\\talmid1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\.net core\\יעל שוכר\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+      "projectUniqueName": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
       "projectName": "DropOfMilkClinic",
-      "projectPath": "Y:\\הנדסת תוכנה תשפה\\.net core\\יעל שוכר\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
-      "packagesPath": "C:\\Users\\TALMID2\\.nuget\\packages\\",
-      "outputPath": "Y:\\הנדסת תוכנה תשפה\\.net core\\יעל שוכר\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
+      "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+      "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
+      "outputPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\TALMID2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -451,7 +505,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+              "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+            },
+            "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
+              "projectPath": "Y:\\תשפה\\כתות\\ה ו\\תכנות\\קמאטק שנה ב\\יעל שוכר\\c# מתקדם\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
