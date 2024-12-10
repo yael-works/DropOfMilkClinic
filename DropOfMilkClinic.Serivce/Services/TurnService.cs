@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Core.Services;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Core.Services;
 using DropOfMilkClinic.Data.Repositories;
 using DropOfMilkClinic.Entities;
 using System;
@@ -11,58 +12,41 @@ namespace DropOfMilkClinic.Serivce
 {
     public class TurnService: ITurnService
     {
-        private readonly ITurnRepository _turnRepository;
-        public TurnService(ITurnRepository turnRepository)
+        private readonly ITurnRespository _turnRepository;
+        public TurnService(ITurnRespository turnRepository)
         {
             _turnRepository = turnRepository;
         }
 
-        public IEnumerable<Turn> Get()
+
+
+        public List<Turn> GetTurnsByDate(DateTime date)
         {
-            return _turnRepository.Get();
+            // ולידציה - בדיקה אם התאריך תקין
+            if (date == default)
+            {
+                throw new ArgumentException("Invalid date provided.");
+            }
+
+            // קריאה ל-Repository לשליפת תורים לפי תאריך
+            return _turnRepository.GetTurnsByDate(date);
         }
-
-        //public ActionResult<List<int>> GetTurnsByDate(DateTime date)
+        //public List<Turn> GetTurnsByCityAndStreet(string city, string? street = null)
         //{
-        //    // מסנן את התורים לפי תאריך ומחזיר רק את מזהי התורים
-        //    var indexTurns = _context.Turn.Where(e => e.TurnDate.Date == date.Date)
-        //                          .Select(e => e.TurnId)
-        //                          .ToList();
-
-        //    // בודק אם נמצאו תורים
-        //    if (indexTurns.Count == 0)
+        //    // ולידציה של העיר
+        //    if (string.IsNullOrWhiteSpace(city))
         //    {
-        //        return NotFound(); // מחזיר 404 אם לא נמצאו תורים
+        //        throw new ArgumentException("City name cannot be null or empty.");
         //    }
 
-        //    return Ok(indexTurns); // מחזיר את רשימת מזהי התורים
+        //    // קריאה ל-Repository
+        //    return _turnRepository.GetTurnsByCityAndStreet(city, street);
         //}
 
 
-        //public ActionResult<List<int>> GetTurnsByBranchId(int branchId)
-        //{
-        //    var indexTurns = _context.Turn.Where(e => e.BranchId.BranchId == branchId).Select(e => e.TurnId).ToList();
-
-        //    if (indexTurns.Count == 0)
-        //    {
-        //        return NotFound(); // מחזיר 404 אם לא נמצאו תורים
-        //    }
-
-        //    return Ok(indexTurns); // מחזיר את רשימת קודי התורים
-        //}
-
-        //// PUT api/<TurnController>/5
-        //[HttpPut("{turnId}")]
-        //public void Put(int turnId,bool status)
-        //{
-
-        //    var index = _context.Turn.FindIndex(e => e.TurnId == turnId);
-        //    if(index != -1)
-        //    _context.Turn[index].status = status;
-        //}
 
 
     }
 
-  
+
 }

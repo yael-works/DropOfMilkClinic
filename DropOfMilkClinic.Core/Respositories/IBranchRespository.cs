@@ -9,8 +9,12 @@ namespace DropOfMilkClinic.Core.Respositories
 {
     public interface IBranchRespository
     {
-        public IEnumerable<Branch> Get();
-        public string GetById(int id);
-        public List<string> GetByCity(string city);
+        public List<Branch> GetAll();
+
+
+        public List<Branch> GetBranchesByCity(string city);
+
+ 
+
     }
 }

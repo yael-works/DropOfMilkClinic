@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Entities;
+﻿using DropOfMilkClinic.Core.Services;
+using DropOfMilkClinic.Entities;
 using DropOfMilkClinic.Serivce;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,37 +16,48 @@ namespace DropOfMilkClinic.Controllers
         {
             this.turnService = turnService;
         }
-
-
-        // GET: api/<TurnController>
-        [HttpGet]
-        public IEnumerable<Turn> Get()
+      
+        [HttpGet("byDate")]
+        public ActionResult GetTurnsByDate([FromQuery] DateTime date)
         {
-            return turnService.Get();
+            try
+            {
+                // קריאה לשירות
+                var turns = turnService.GetTurnsByDate(date);
+
+                if (turns == null || turns.Count == 0)
+                {
+                    return NotFound($"No turns found for date {date:yyyy-MM-dd}.");
+                }
+
+                return Ok(turns);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
-        // GET api/turn/date/{date}
-        [HttpGet("date/{date}")]
-        public ActionResult<List<int>> GetTurnsByDate(DateTime date)
-        {
-            return turnService.GetTurnsByDate(date);
-           }
-
-            // GET api/turn/branch/{branchName}
-            [HttpGet("branch/{branchId}")]
-        public ActionResult<List<int>> GetTurnsByBranchId(int branchId)
-        {
-           return turnService.GetTurnsByBranchId(branchId);
-        }
-
-        //// PUT api/<TurnController>/5
-        //[HttpPut("{turnId}")]
-        //public void Put(int turnId,bool status)
+        //[HttpGet("byLocation")]
+        //public ActionResult GetTurnsByCityAndStreet([FromQuery] string city, [FromQuery] string? street = null)
         //{
+        //    try
+        //    {
+        //        // קריאה לשירות
+        //        var turns = turnService.GetTurnsByCityAndStreet(city, street);
 
-        //    var index = _context.Turn.FindIndex(e => e.TurnId == turnId);
-        //    if(index != -1)
-        //    _context.Turn[index].status = status;
+        //        if (turns == null || turns.Count == 0)
+        //        {
+        //            return NotFound($"No turns found for city {city}" + (string.IsNullOrEmpty(street) ? "." : $" and street {street}."));
+        //        }
+
+        //        return Ok(turns);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.Message);
+        //    }
         //}
+
 
     }
 

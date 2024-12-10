@@ -57,3 +57,245 @@ Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\Dro
 Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
 Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
 Y:\הנדסת תוכנה תשפה\.net core\יעל שוכר\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.exe
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.deps.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.runtimeconfig.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.pdb
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.pdb
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.pdb
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.pdb
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.AssemblyReference.cache
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfoInputs.cache
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfo.cs
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CoreCompileInputs.cache
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.DropOfMilkClinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.build.DropOfMilkClinic.props
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DropOfMilkClinic.props
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DropOfMilkClinic.props
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\scopedcss\bundle\DropOfMilkClinic.styles.css
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CopyComplete
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\refint\DropOfMilkClinic.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Humanizer.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יואב\Documents\ו סמינר\C# מתקדם\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cache
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\refint\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.Development.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.exe
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.deps.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.pdb
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Humanizer.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Collections.Immutable.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.dll
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.pdb
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.pdb
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.pdb
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.build.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.development.json
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\scopedcss\bundle\DropOfMilkClinic.styles.css
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CopyComplete
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\שנה ב\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\appsettings.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.exe
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.deps.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.runtimeconfig.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.pdb
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Humanizer.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Core.pdb
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Data.pdb
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\bin\Debug\net6.0\DropOfMilkClinic.Serivce.pdb
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.AssemblyInfo.cs
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.sourcelink.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.DropOfMilkClinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.build.DropOfMilkClinic.props
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DropOfMilkClinic.props
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DropOfMilkClinic.props
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\scopedcss\bundle\DropOfMilkClinic.styles.css
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMi.0532E853.Up2Date
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\refint\DropOfMilkClinic.dll
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.pdb
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\DropOfMilkClinic.genruntimeconfig.cache
+C:\Users\תמר לוי\Downloads\123\DropOfMilkClinic\DropOfMilkClinic\obj\Debug\net6.0\ref\DropOfMilkClinic.dll

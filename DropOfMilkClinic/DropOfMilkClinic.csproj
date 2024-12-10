@@ -7,11 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.36">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\DropOfMilkClinic.Core\DropOfMilkClinic.Core.csproj" />
+    <ProjectReference Include="..\DropOfMilkClinic.Data\DropOfMilkClinic.Data.csproj" />
     <ProjectReference Include="..\DropOfMilkClinic.Serivce\DropOfMilkClinic.Serivce.csproj" />
   </ItemGroup>
 

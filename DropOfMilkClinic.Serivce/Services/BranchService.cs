@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Core.Services;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Core.Services;
 using DropOfMilkClinic.Data.Repositories;
 using DropOfMilkClinic.Entities;
 using System;
@@ -11,26 +12,32 @@ namespace DropOfMilkClinic.Serivce
 {
     public class BranchService: IBranchService
     {
-        private readonly IBranchRepository _branchRepository;
+        private readonly IBranchRespository _branchRepository;
       
-        public BranchService(IBranchRepository branchRespository)
+        public BranchService(IBranchRespository branchRespository)
         {
             _branchRepository = branchRespository;
         }
 
-        public IEnumerable<Branch> Get()
+
+        public List<Branch> GetList()
         {
-          return _branchRepository.Get();
+            return _branchRepository.GetAll();
         }
 
-        public string GetById(int id)
+      
+
+        public List<Branch> GetBranchesByCity(string city)
         {
-            return _branchRepository.GetById(id);
+            // ולידציה של העיר
+            if (string.IsNullOrWhiteSpace(city))
+            {
+                throw new ArgumentException("City name cannot be null or empty.");
+            }
+
+            // קריאה ל-Repository לשלוף את הסניפים עם סטטוס TRUE בלבד
+            return _branchRepository.GetBranchesByCity(city);
         }
 
-        public List<string> GetByCity(string city)
-        {
-            return _branchRepository.GetByCity(city);
-        }
     }
 }

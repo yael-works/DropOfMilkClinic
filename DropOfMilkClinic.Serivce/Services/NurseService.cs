@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Core.Services;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Core.Services;
 using DropOfMilkClinic.Data.Repositories;
 using DropOfMilkClinic.Entities;
 using System;
@@ -11,24 +12,40 @@ namespace DropOfMilkClinic.Serivce
 {
     public class NurseService: INurseService
     {
-        private readonly INurseRepository _nurseRepository;
+        private readonly INurseRespository _nurseRepository;
 
-        public NurseService(INurseRepository nurseRepository)
+        public NurseService(INurseRespository nurseRepository)
         {
             _nurseRepository = nurseRepository;
         }
 
-        public IEnumerable<Nurse> Get()
+        public List<Nurse> GetList()
         {
-            return _nurseRepository.Get();
+            return _nurseRepository.GetAll();
         }
 
+        //public List<Nurse> GetNursesByBranchId(int branchId)
+        //{
+        //    // בדיקת תקינות הקלט
+        //    if (branchId <= 0)
+        //    {
+        //        throw new ArgumentException("Branch ID must be greater than zero.");
+        //    }
 
-        public string Get(string Fname, string Lname)
-        {
+        //    // קריאה ל-Repository לשליפת רשימת האחיות
+        //    return _nurseRepository.GetNursesByBranchId(branchId);
+        //}
+        //public List<Nurse> GetNursesByCityAndStreet(string city, string street)
+        //{
+        //    // ולידציה של הקלט
+        //    if (city==null || city==null)
+        //    {
+        //        throw new ArgumentException("City and street cannot be null or empty.");
+        //    }
 
-          return _nurseRepository.Get(Fname, Lname);
+        //    // קריאה ל-Repository לשליפת רשימת האחיות
+        //    return _nurseRepository.GetNursesByCityAndStreet(city, street);
+        //}
 
-        }
     }
 }

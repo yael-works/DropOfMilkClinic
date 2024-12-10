@@ -1,4 +1,6 @@
-﻿using DropOfMilkClinic.Entities;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +9,7 @@ using System.Threading.Tasks;
 //תקינות קלט לא נקבל גיל מעל 3
 namespace DropOfMilkClinic.Data.Repositories
 {
-   public class BranchRepository: IBranchRepository
+    public class BranchRepository : IBranchRespository
     {
         private readonly DataContex _context;
         public BranchRepository(DataContex context)
@@ -15,34 +17,18 @@ namespace DropOfMilkClinic.Data.Repositories
             _context = context;
         }
 
-        public IEnumerable<Branch> Get()
-            {
-                return _context.Branch;
-            }
-
-            public string GetById(int id)
-            {
-                var index = _context.Branch.FindIndex(e => e.BranchId == id && _context.Branch[_context.Branch.FindIndex(e => e.BranchId == id)].status);
-                return _context.Branch[index].City + " " + _context.Branch[index].Street;
-            }
-          
-            public List<string> GetByCity(string city)
-            {
-                var relevantTurns = _context.Branch.Where(e => e.City == city && _context.Branch[_context.Branch.FindIndex(e => e.City == city)].status)
-                                     .Select(e => e.Street + " " + e.BranchId)
-                                     .ToList();
-
-                // בודק אם נמצאו תורים
-                if (relevantTurns.Count == 0)
-                {
-                    return null;
-                }
-
-                return relevantTurns;
-            }
+        public List<Branch> GetAll()
+        {
+            return _context.Branch.ToList();
         }
 
-    public interface IBranchRepository
-    {
+
+        public List<Branch> GetBranchesByCity(string city)
+        {
+            // סינון סניפים לפי עיר וסטטוס TRUE
+            return _context.Branch
+                           .Where(b => b.City == city && b.Status == true)
+                           .ToList();
+        }
     }
 }

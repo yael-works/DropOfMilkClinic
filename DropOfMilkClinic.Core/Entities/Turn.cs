@@ -1,13 +1,13 @@
-﻿namespace DropOfMilkClinic.Entities
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace DropOfMilkClinic.Entities
 {
     public class Turn
     {
-        public int TurnId { get; set; }
+        public string TurnId { get; set; }
         public DateTime TurnDate { get; set; }
-
-        public Branch BranchId { get; set; }
-
-        public bool status { get; set; }
-
+        public bool Status { get; set; }
+       
     }
 }

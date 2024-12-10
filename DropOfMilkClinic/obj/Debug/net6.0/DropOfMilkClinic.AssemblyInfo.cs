@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DropOfMilkClinic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e945bc0d9506e31fa829ad8e7022091ebfd52532")]
 [assembly: System.Reflection.AssemblyProductAttribute("DropOfMilkClinic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DropOfMilkClinic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

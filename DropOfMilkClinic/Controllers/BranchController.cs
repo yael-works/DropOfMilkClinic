@@ -1,6 +1,7 @@
-﻿using DropOfMilkClinic.Core.IServices;
+﻿using DropOfMilkClinic.Core.Services;
 using DropOfMilkClinic.Entities;
 using DropOfMilkClinic.Serivce;
+using DropOfMilkClinic.Services;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -16,26 +17,41 @@ namespace DropOfMilkClinic.Controllers
         {
             this.branchService = _branchService;
         }
-
-        // GET: api/<BranchController>
+        // GET: api/<StudentsController>
         [HttpGet]
-        public IEnumerable<Branch> Get()
+        public ActionResult Get()
         {
-            return branchService.Get();
+            return Ok(branchService.GetList());
         }
 
-        // GET api/<BranchController>/5
-        [HttpGet("id/{id}")]
-        public string GetById(int id)
+
+        [HttpGet("byCity")]
+        public ActionResult GetBranchesByCity([FromBody] string city)
         {
-           return branchService.GetById(id); 
+            try
+            {
+                // קריאה לשירות
+                var branches = branchService.GetBranchesByCity(city);
+
+                // אם לא נמצאו סניפים
+                if (branches == null || branches.Count == 0)
+                {
+                    return NotFound($"No branches found for city {city} with status TRUE.");
+                }
+
+                // אם נמצאו סניפים
+                return Ok(branches);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+      
+      
         }
-        // GET api/<BranchController>/5
-        [HttpGet("city/{city}")]
-        public List<string> GetByCity(string city)
-        {
-           return branchService.GetByCity(city);
-        }
+      
     }
-    }
+
+}
+
 

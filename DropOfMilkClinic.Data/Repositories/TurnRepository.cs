@@ -1,4 +1,6 @@
-﻿using DropOfMilkClinic.Entities;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,62 +9,44 @@ using System.Threading.Tasks;
 
 namespace DropOfMilkClinic.Data.Repositories
 {
-    public class TurnRepository: ITurnRepository
+    public class TurnRepository : ITurnRespository
     {
         private readonly DataContex _context;
-        public TurnRepository(DataContex context)
+        private readonly DataContex _branch;
+        public TurnRepository(DataContex context, DataContex b)
         {
             _context = context;
+            _branch = b;
         }
 
-        public IEnumerable<Turn> Get()
+
+        public List<Turn> GetTurnsByDate(DateTime date)
         {
-            return _context.Turn;
+            //thenInclude
+            // שליפת כל התורים בתאריך המבוקש
+            return _context.Turn.ToList()
+                .Where(t => t.TurnDate.Date == date.Date)
+                .ToList();
         }
-       
-        //public ActionResult<List<int>> GetTurnsByDate(DateTime date)
+        //public List<Turn> GetTurnsByCityAndStreet(string city, string street)
         //{
-        //    // מסנן את התורים לפי תאריך ומחזיר רק את מזהי התורים
-        //    var indexTurns = _context.Turn.Where(e => e.TurnDate.Date == date.Date)
-        //                          .Select(e => e.TurnId)
-        //                          .ToList();
+        //    // טוען את כל הסניפים
+        //    List<Branch> branches = _context.Branch.ToList();
 
-        //    // בודק אם נמצאו תורים
-        //    if (indexTurns.Count == 0)
-        //    {
-        //        return NotFound(); // מחזיר 404 אם לא נמצאו תורים
-        //    }
+        //    // סינון הסניפים הפנויים לפי עיר ורחוב
+        //    Branch filteredBranche = branches
+        //        .FirstOrDefault(b => b.City == city &&
+        //                    b.Street == street &&
+        //                    b.status ==true);  // סינון לפי סטטוס TRUE
 
-        //    return Ok(indexTurns); // מחזיר את רשימת מזהי התורים
-        //}
 
-       
-        //public ActionResult<List<int>> GetTurnsByBranchId(int branchId)
-        //{
-        //    var indexTurns = _context.Turn.Where(e => e.BranchId.BranchId == branchId).Select(e => e.TurnId).ToList();
-
-        //    if (indexTurns.Count == 0)
-        //    {
-        //        return NotFound(); // מחזיר 404 אם לא נמצאו תורים
-        //    }
-
-        //    return Ok(indexTurns); // מחזיר את רשימת קודי התורים
-        //}
-
-        //// PUT api/<TurnController>/5
-        //[HttpPut("{turnId}")]
-        //public void Put(int turnId,bool status)
-        //{
-
-        //    var index = _context.Turn.FindIndex(e => e.TurnId == turnId);
-        //    if(index != -1)
-        //    _context.Turn[index].status = status;
+        //    // שליפת התורים ששייכים לסניפים המסוננים
+        //    return _context.Turn
+        //        .Where(t => t.BranchId== filteredBranche.BranchId&&t.Status==false)  // אם התור שייך לסניף מהסניפים המסוננים
+        //        .ToList();
         //}
 
 
-    }
 
-    public interface ITurnRepository
-    {
     }
 }

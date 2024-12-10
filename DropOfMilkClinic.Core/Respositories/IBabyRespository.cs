@@ -9,12 +9,23 @@ namespace DropOfMilkClinic.Core.Respositories
 {
     public interface IBabyRespository
     {
-        public string Get(string id);
-        public ActionResult GetTurnList(string id);
-        public void Post(Baby value);
-        public int Post(DateTime date, string id);
-        public void PutId(string id, bool value);
-        public ActionResult PutCity(string id, string city);
-        public void Delete(int turnId, string id);
+        public List<Baby> GetAll();
+        public Baby GetById(string id);
+        public void Add(Baby baby);
+
+       // public List<Turn> GetTurnList(string babyId);
+
+        public void Update(Baby baby);
+
+        //public Branch GetBranchById(int branchId);
+
+        //public Turn GetTurnById(string turnId);
+
+
+       // public void AddTurnToBaby(string babyId, string turn);
+
+      //  public void RemoveTurnFromBaby(string babyId, string turnId);
+
+
     }
 }

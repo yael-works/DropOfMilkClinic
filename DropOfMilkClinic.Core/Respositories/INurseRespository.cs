@@ -9,7 +9,13 @@ namespace DropOfMilkClinic.Core.Respositories
 {
     public interface INurseRespository
     {
-        public IEnumerable<Nurse> Get();
-        public string Get(string Fname, string Lname);
+        public List<Nurse> GetAll();
+
+        //public List<Nurse> GetNursesByBranchId(int branchId);
+
+        //public List<Nurse> GetNursesByCityAndStreet(string city, string street);
+
+
+
     }
 }

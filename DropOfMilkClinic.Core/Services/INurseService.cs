@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Entities;
+﻿using DropOfMilkClinic.Core.Respositories;
+using DropOfMilkClinic.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +10,14 @@ namespace DropOfMilkClinic.Core.Services
 {
     public interface INurseService
     {
-        public IEnumerable<Nurse> Get();
 
-        public string Get(string Fname, string Lname);
-        
+       
+    public List<Nurse> GetList();
+
+   //public List<Nurse> GetNursesByBranchId(int branchId);
+
+        //public List<Nurse> GetNursesByCityAndStreet(string city, string street);
+
 
     }
 }

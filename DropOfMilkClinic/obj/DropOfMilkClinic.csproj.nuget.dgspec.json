@@ -1,31 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {}
+    "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {}
   },
   "projects": {
-    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+    "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
         "projectName": "DropOfMilkClinic.Core",
-        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
-        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
-        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\obj\\",
+        "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj",
+        "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\תמר לוי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,7 +58,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,40 +68,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
+    "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
         "projectName": "DropOfMilkClinic.Data",
-        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
-        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
-        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\obj\\",
+        "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj",
+        "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\תמר לוי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
               }
             }
           }
@@ -100,142 +114,188 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
-        "projectName": "DropOfMilkClinic.Serivce",
-        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
-        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
-        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
         },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
-              },
-              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
-                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
-        "projectName": "DropOfMilkClinic",
-        "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
-        "packagesPath": "C:\\Users\\talmid2\\.nuget\\packages\\",
-        "outputPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\talmid2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
-                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
-              },
-              "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
-                "projectPath": "Y:\\הנדסת תוכנה תשפה\\שנה ב\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
+        "projectName": "DropOfMilkClinic.Serivce",
+        "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj",
+        "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\תמר לוי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              },
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+        "projectName": "DropOfMilkClinic",
+        "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic\\DropOfMilkClinic.csproj",
+        "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\תמר לוי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Core\\DropOfMilkClinic.Core.csproj"
+              },
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Data\\DropOfMilkClinic.Data.csproj"
+              },
+              "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\Downloads\\123\\DropOfMilkClinic\\DropOfMilkClinic.Serivce\\DropOfMilkClinic.Serivce.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -247,7 +307,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -259,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5\\RuntimeIdentifierGraph.json"
         }
       }
     }

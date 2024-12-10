@@ -1,4 +1,5 @@
-﻿using DropOfMilkClinic.Entities;
+﻿using DropOfMilkClinic.Core.Services;
+using DropOfMilkClinic.Entities;
 using DropOfMilkClinic.Serivce;
 using Microsoft.AspNetCore.Mvc;
 using System.Xml.Linq;
@@ -16,22 +17,56 @@ namespace DropOfMilkClinic.Controllers
         {
             this.nurseService = nurseService;
         }
-        // GET: api/<NurseController>
+        // GET: api/<StudentsController>
         [HttpGet]
-        public IEnumerable<Nurse> Get()
+        public ActionResult Get()
         {
-            return nurseService.Get();
+            return Ok(nurseService.GetList());
         }
+        //[HttpGet("byBranch/{branchId}")]
+        //public ActionResult GetNursesByBranchId(int branchId)
+        //{
+        //    try
+        //    {
+        //        // קריאה לשירות
+        //        var nurses = nurseService.GetNursesByBranchId(branchId);
 
-        // GET api/<NurseController>/5
-        [HttpGet("{Fname,Lname}")]
-        public string Get(string Fname,string Lname)
-        {
-             return nurseService.Get(Fname, Lname); 
-        }
+        //        if (nurses == null || nurses.Count == 0)
+        //        {
+        //            return NotFound($"No nurses found for branch ID {branchId}.");
+        //        }
 
-    
-      
+        //        return Ok(nurses);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.Message);
+        //    }
+        //}
+        //[HttpGet("byLocation")]
+        //public ActionResult GetNursesByCityAndStreet([FromQuery]string city,  string street)
+        //{
+        //    try
+        //    {
+        //        // קריאה לשירות
+        //        var nurses = nurseService.GetNursesByCityAndStreet(city, street);
+
+        //        if (nurses == null || nurses.Count == 0)
+        //        {
+        //            return NotFound($"No nurses found in city {city}, street {street}.");
+        //        }
+
+        //        return Ok(nurses);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.Message);
+        //    }
+        //}
+
+
+
+
 
 
     }

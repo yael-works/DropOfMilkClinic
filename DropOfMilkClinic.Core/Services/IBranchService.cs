@@ -9,13 +9,14 @@ namespace DropOfMilkClinic.Core.Services
 {
     public interface IBranchService
     {
-        public IEnumerable<Branch> Get();
-
-        public string GetById(int id);
 
 
-        public List<string> GetByCity(string city);
-       
+        public List<Branch> GetList();
+
+
+        public List<Branch> GetBranchesByCity(string city);
+
+
 
     }
 }
